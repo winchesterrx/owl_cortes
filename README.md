@@ -28,3 +28,4 @@ Workspace e skill `clipper` para transformar lives e VODs longos (YouTube, Twitc
 .clipper\ambiente\Scripts\python.exe -u .agents\skills\clipper\scripts\clip.py fazer <live>
 .clipper\ambiente\Scripts\python.exe -u .agents\skills\clipper\scripts\clip.py youtube <live>
 ```
+
